@@ -57,7 +57,7 @@ def get_student(id):
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route("/students", metdhods=["POST"])
+@app.route("/students", methods=["POST"])
 def add_student():
     data = request.get_json()
     name = data["name"]
