@@ -1,0 +1,5 @@
+Alice : 99 - Pass
+Mike : 88 - Pass
+John : 69 - Pass
+Kim : 49 - Fail
+Fums : 10 - Fail

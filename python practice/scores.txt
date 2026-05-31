@@ -1,0 +1,4 @@
+Alice: 85
+Fums: 100
+Kim: 95
+Yay
